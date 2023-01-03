@@ -13,7 +13,7 @@ Una vez que el cliente se ha registrado y ha iniciado sesión con éxito, tiene 
 
 ![image](https://user-images.githubusercontent.com/81719352/210339065-9e6afa2b-2dc8-44d6-a728-8ea42d5c1f3c.png)
 
-GIF 
+![1](https://user-images.githubusercontent.com/81719352/210343573-eeb8f75d-c593-4ca4-a409-2150f2f5ec79.gif)
 
 ![image](https://user-images.githubusercontent.com/81719352/210339194-ee21e1bd-936c-4cf5-94f6-c07a7bc5b7a1.png)
 ![image](https://user-images.githubusercontent.com/81719352/210339258-f832d7eb-7076-487e-af2a-3a3476f3d116.png)
@@ -23,7 +23,8 @@ GIF
 Por otro lado, la aplicación cuenta con un panel de administración que permite al dueño de la barbería actualizar la lista de servicios disponibles, ver las citas de todos los clientes utilizando un buscador de fecha y crear nuevos servicios para ofrecer a los clientes.
 
 ![image](https://user-images.githubusercontent.com/81719352/210339376-acc8fa1f-df7e-49d3-8fb0-7fb45e256790.png)
-GIF
+![2](https://user-images.githubusercontent.com/81719352/210343621-b0ca3244-da19-4ae2-b65c-1f8d90c67d8a.gif)
+
 ![image](https://user-images.githubusercontent.com/81719352/210339482-bb1e2fad-976f-459b-9abe-3cc8746a2ea9.png)
 ![image](https://user-images.githubusercontent.com/81719352/210339521-bf3c7ad6-26b0-4dd9-b44a-d91d31901512.png)
 
@@ -32,4 +33,8 @@ El proyecto "Barberia" es una aplicación simple pero completa, fácil de usar q
 
 Quisiera agregar que el proyecto "Barberia" es una aplicación web responsive, lo que significa que está diseñada para adaptarse a cualquier tamaño de pantalla y dispositivo, ofreciendo una experiencia de usuario óptima en cualquier plataforma. Esto es importante ya que hoy en día la mayoría de las personas acceden a Internet a través de dispositivos móviles, por lo que es fundamental que las aplicaciones web sean fácilmente utilizables en estos dispositivos. Con el proyecto "Barberia", los clientes pueden solicitar citas y servicios desde cualquier lugar y en cualquier momento.
 
+![image](https://user-images.githubusercontent.com/81719352/210343669-ee4fe20b-86d3-4a6d-8b15-0cfe894bed77.png)
 
+*Si desea correr esto en su pc, debe abrir la terminal y ejecutar "NPM I".
+
+¡Saludos!
