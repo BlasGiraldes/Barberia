@@ -1,6 +1,7 @@
 # Barberia
                                     ## Proyecto MVC PHP 8 MySQL JS CSS Flexbox Grid SASS
 
+https://youtu.be/UzQig9jz7hA
 
 💇👉 El proyecto "Barberia" es una aplicación web diseñada para facilitar la gestión y organización de una barbería. La aplicación cuenta con un sistema de registro y login, utilizando el servicio de MailTrap y tokens únicos para garantizar la seguridad de la cuenta del usuario.
 
