@@ -39,7 +39,6 @@
 
 ![image](https://user-images.githubusercontent.com/81719352/210343669-ee4fe20b-86d3-4a6d-8b15-0cfe894bed77.png)
 
-*Si desea correr esto en su pc, debe abrir la terminal y ejecutar "NPM I".
 
 👋 ¡Saludos! :+1: :shipit: 
 
